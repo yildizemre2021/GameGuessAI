@@ -1,0 +1,15 @@
+/home/emre/Code/Csharp/GameGuessAI/bin/Debug/net6.0/GameGuessAI
+/home/emre/Code/Csharp/GameGuessAI/bin/Debug/net6.0/GameGuessAI.deps.json
+/home/emre/Code/Csharp/GameGuessAI/bin/Debug/net6.0/GameGuessAI.runtimeconfig.json
+/home/emre/Code/Csharp/GameGuessAI/bin/Debug/net6.0/GameGuessAI.dll
+/home/emre/Code/Csharp/GameGuessAI/bin/Debug/net6.0/ref/GameGuessAI.dll
+/home/emre/Code/Csharp/GameGuessAI/bin/Debug/net6.0/GameGuessAI.pdb
+/home/emre/Code/Csharp/GameGuessAI/obj/Debug/net6.0/GameGuessAI.csproj.AssemblyReference.cache
+/home/emre/Code/Csharp/GameGuessAI/obj/Debug/net6.0/GameGuessAI.GeneratedMSBuildEditorConfig.editorconfig
+/home/emre/Code/Csharp/GameGuessAI/obj/Debug/net6.0/GameGuessAI.AssemblyInfoInputs.cache
+/home/emre/Code/Csharp/GameGuessAI/obj/Debug/net6.0/GameGuessAI.AssemblyInfo.cs
+/home/emre/Code/Csharp/GameGuessAI/obj/Debug/net6.0/GameGuessAI.csproj.CoreCompileInputs.cache
+/home/emre/Code/Csharp/GameGuessAI/obj/Debug/net6.0/GameGuessAI.dll
+/home/emre/Code/Csharp/GameGuessAI/obj/Debug/net6.0/ref/GameGuessAI.dll
+/home/emre/Code/Csharp/GameGuessAI/obj/Debug/net6.0/GameGuessAI.pdb
+/home/emre/Code/Csharp/GameGuessAI/obj/Debug/net6.0/GameGuessAI.genruntimeconfig.cache
